@@ -1,0 +1,1232 @@
+-----*************************
+Time elapsed: 0 hours, 17 minutes, 53 seconds
+New best keyboards last found 0 hours, 10 minutes, 3 seconds ago.
+Rank #25 fitness: 82452744
+
+Hands:   48.47% 51.53%
+Fingers: 8.8% 8.9% 12.1% 18.7%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.8%  9.5%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  $
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  \  {  }  0   0  +  #  !  0
+ ;  (  )  "  @   ~  _  -  <  >
+ [  ]  =  :  &   |  /  *  ?  ^
+
+Fitness:                82452744
+Finger travel:          27489090
+Excess finger press:    1398000
+Excess finger travel:   1642320
+Hand travel:            16299480
+Hand imbalance:         573249
+Layer change:           19121600
+(Bigram) layer, diff:       4.10% (-1809200)
+(Bigram) layer, diff hands: 0.32% (322560)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.97% (0)
+(Bigram) same finger:       1.21% (5819360)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137620)
+(Bigram) hand reposition:   0.00% (7360)
+(Bigram) double tap:        0.27% (685300)
+(Bigram) scissors, half:    4.99% (5235520)
+(Bigram) scissors, full:    1.61% (2523360)
+(Bigram) lat stretch:       0.70% (964800)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #24 fitness: 82452018
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  `  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ [  ]  {  }  0   0  +  -  %  0
+ ;  (  )  "  &   |  _  ?  <  >
+ ~  *  =  /  0   ^  :  $  !  @
+
+Fitness:                82452018
+Finger travel:          27536580
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16405000
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1864160)
+(Bigram) layer, diff hands: 0.47% (465120)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5640320)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.18% (-135860)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.27% (683520)
+(Bigram) scissors, half:    4.98% (5236960)
+(Bigram) scissors, full:    1.60% (2507360)
+(Bigram) lat stretch:       0.71% (977120)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #23 fitness: 82451642
+
+Hands:   48.39% 51.61%
+Fingers: 8.8% 9.0% 12.2% 18.4%   12.5% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.5%    6.3%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  |  {  }  0   ~  +  #  !  0
+ ;  "  (  )  &   -  _  $  <  >
+ [  ]  :  =  ^   `  /  *  ?  0
+
+Fitness:                82451642
+Finger travel:          27533350
+Excess finger press:    1342720
+Excess finger travel:   1540960
+Hand travel:            16458280
+Hand imbalance:         636977
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.37% (366560)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.97% (0)
+(Bigram) same finger:       1.19% (5743840)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137490)
+(Bigram) hand reposition:   0.01% (15200)
+(Bigram) double tap:        0.31% (702400)
+(Bigram) scissors, half:    5.04% (5291200)
+(Bigram) scissors, full:    1.61% (2536640)
+(Bigram) lat stretch:       0.72% (1009920)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #22 fitness: 82444664
+
+Hands:   48.41% 51.59%
+Fingers: 8.8% 9.0% 12.2% 18.4%   12.4% 19.9% 10.6% 8.7%
+Travel:  1.6% 3.7% 6.0%  9.6%    6.1%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ ~  *  =  &  0   0  |  #  !  0
+ ;  "  :  /  $   +  _  -  <  >
+ [  ]  (  )  0   ^  {  }  ?  @
+
+Fitness:                82444664
+Finger travel:          27675940
+Excess finger press:    1503840
+Excess finger travel:   1540960
+Hand travel:            16265360
+Hand imbalance:         621329
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.40% (403200)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.98% (0)
+(Bigram) same finger:       1.16% (5619200)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.43% (-151270)
+(Bigram) hand reposition:   0.01% (14880)
+(Bigram) double tap:        0.30% (698220)
+(Bigram) scissors, half:    5.01% (5286400)
+(Bigram) scissors, full:    1.63% (2566560)
+(Bigram) lat stretch:       0.71% (983520)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #21 fitness: 82443664
+
+Hands:   48.41% 51.59%
+Fingers: 8.8% 9.0% 12.2% 18.4%   12.4% 19.9% 10.6% 8.7%
+Travel:  1.6% 3.7% 6.0%  9.6%    6.1%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ ~  *  =  $  0   ^  +  #  !  0
+ ;  "  :  /  &   |  _  -  <  >
+ [  ]  (  )  0   0  {  }  ?  @
+
+Fitness:                82443664
+Finger travel:          27675940
+Excess finger press:    1503840
+Excess finger travel:   1540960
+Hand travel:            16273000
+Hand imbalance:         621329
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.40% (403200)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.98% (0)
+(Bigram) same finger:       1.16% (5614720)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.43% (-151430)
+(Bigram) hand reposition:   0.01% (17120)
+(Bigram) double tap:        0.30% (698220)
+(Bigram) scissors, half:    5.02% (5284320)
+(Bigram) scissors, full:    1.63% (2578400)
+(Bigram) lat stretch:       0.70% (967520)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #20 fitness: 82442635
+
+Hands:   48.41% 51.59%
+Fingers: 8.8% 8.9% 12.1% 18.7%   12.5% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  ?  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  -  {  }  0   ^  &  |  +  0
+ ;  (  )  "  ~   %  _  $  <  >
+ [  ]  /  :  0   `  =  *  !  @
+
+Fitness:                82442635
+Finger travel:          27576250
+Excess finger press:    1342720
+Excess finger travel:   1662480
+Hand travel:            16248880
+Hand imbalance:         619750
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1833360)
+(Bigram) layer, diff hands: 0.39% (391680)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.92% (0)
+(Bigram) same finger:       1.22% (5850560)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.18% (-135770)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.28% (689720)
+(Bigram) scissors, half:    4.96% (5209600)
+(Bigram) scissors, full:    1.62% (2539040)
+(Bigram) lat stretch:       0.70% (966880)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #19 fitness: 82438415
+
+Hands:   48.37% 51.63%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.6% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.5%    6.3%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  `  {  }  0   ~  &  |  !  0
+ ;  (  )  "  -   +  _  $  <  >
+ [  ]  /  =  0   ^  :  *  ?  @
+
+Fitness:                82438415
+Finger travel:          27528080
+Excess finger press:    1342720
+Excess finger travel:   1540960
+Hand travel:            16422360
+Hand imbalance:         651410
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.58% (580320)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.72% (0)
+(Bigram) same finger:       1.17% (5669280)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.16% (-134740)
+(Bigram) hand reposition:   0.01% (14880)
+(Bigram) double tap:        0.27% (683420)
+(Bigram) scissors, half:    4.97% (5214400)
+(Bigram) scissors, full:    1.61% (2524640)
+(Bigram) lat stretch:       0.70% (963040)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #18 fitness: 82437525
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.7% 10.7% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  `  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ~  +  #  !  0
+ ;  (  )  "  &   |  _  <  >  -
+ [  ]  =  /  0   ^  :  $  ?  @
+
+Fitness:                82437525
+Finger travel:          27513800
+Excess finger press:    1541317
+Excess finger travel:   1540960
+Hand travel:            16312600
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.47% (469760)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.17% (5655840)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.16% (-134550)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.28% (673740)
+(Bigram) scissors, half:    4.97% (5213280)
+(Bigram) scissors, full:    1.63% (2560960)
+(Bigram) lat stretch:       0.71% (977120)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #17 fitness: 82431599
+
+Hands:   48.27% 51.73%
+Fingers: 8.8% 8.8% 12.1% 18.6%   12.7% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.4%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ^  &  #  |  0
+ ;  (  )  "  +   -  _  ?  <  >
+ [  ]  =  /  0   ~  :  $  !  @
+
+Fitness:                82431599
+Finger travel:          27549890
+Excess finger press:    1342720
+Excess finger travel:   1540960
+Hand travel:            16422360
+Hand imbalance:         733124
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.47% (472160)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.83% (0)
+(Bigram) same finger:       1.16% (5629120)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.15% (-133860)
+(Bigram) hand reposition:   0.01% (14880)
+(Bigram) double tap:        0.28% (690920)
+(Bigram) scissors, half:    4.98% (5235680)
+(Bigram) scissors, full:    1.63% (2544800)
+(Bigram) lat stretch:       0.70% (972320)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #16 fitness: 82428565
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.2% 12.1% 18.4%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.7%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  {  }  &  0   ~  |  #  !  0
+ ;  "  (  )  $   +  _  -  <  >
+ [  ]  :  =  ^   `  /  *  ?  0
+
+Fitness:                82428565
+Finger travel:          27586570
+Excess finger press:    1398000
+Excess finger travel:   1752960
+Hand travel:            16276400
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.34% (334240)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.16% (5643360)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137460)
+(Bigram) hand reposition:   0.00% (14560)
+(Bigram) double tap:        0.30% (697100)
+(Bigram) scissors, half:    5.03% (5277760)
+(Bigram) scissors, full:    1.61% (2545760)
+(Bigram) lat stretch:       0.74% (1033280)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #15 fitness: 82427295
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.0% 12.2% 18.5%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.5%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  |  {  }  &   ~  +  #  !  0
+ ;  "  (  )  $   `  _  -  <  >
+ [  ]  :  =  ^   0  /  *  ?  0
+
+Fitness:                82427295
+Finger travel:          27505710
+Excess finger press:    1398000
+Excess finger travel:   1540960
+Hand travel:            16407520
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.33% (329120)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.19% (5757280)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137490)
+(Bigram) hand reposition:   0.01% (14560)
+(Bigram) double tap:        0.31% (702400)
+(Bigram) scissors, half:    5.06% (5341760)
+(Bigram) scissors, full:    1.61% (2538240)
+(Bigram) lat stretch:       0.74% (1023200)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #14 fitness: 82426208
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ [  ]  {  }  0   0  +  #  !  0
+ ;  (  )  "  &   |  _  -  <  >
+ ~  *  =  /  0   ^  :  $  ?  @
+
+Fitness:                82426208
+Finger travel:          27518640
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16405000
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.47% (467360)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5632480)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.19% (-136750)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.27% (684620)
+(Bigram) scissors, half:    4.99% (5242400)
+(Bigram) scissors, full:    1.60% (2517120)
+(Bigram) lat stretch:       0.71% (977440)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #13 fitness: 82426085
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.2% 12.1% 18.4%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.7%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  {  }  $  0   ~  +  #  !  ^
+ ;  "  (  )  &   |  _  -  <  >
+ [  ]  :  =  0   `  /  *  ?  0
+
+Fitness:                82426085
+Finger travel:          27590170
+Excess finger press:    1398000
+Excess finger travel:   1752960
+Hand travel:            16284040
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.34% (335360)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.16% (5644000)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-138060)
+(Bigram) hand reposition:   0.01% (16800)
+(Bigram) double tap:        0.30% (697100)
+(Bigram) scissors, half:    5.04% (5284320)
+(Bigram) scissors, full:    1.61% (2550560)
+(Bigram) lat stretch:       0.72% (1004800)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #12 fitness: 82425295
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.0% 12.2% 18.5%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.5%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  |  {  }  0   ~  +  #  !  ^
+ ;  "  (  )  $   `  _  -  <  >
+ [  ]  :  =  &   0  /  *  ?  0
+
+Fitness:                82425295
+Finger travel:          27509310
+Excess finger press:    1398000
+Excess finger travel:   1540960
+Hand travel:            16407520
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.33% (330240)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.19% (5753440)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137490)
+(Bigram) hand reposition:   0.01% (14560)
+(Bigram) double tap:        0.31% (702400)
+(Bigram) scissors, half:    5.06% (5339840)
+(Bigram) scissors, full:    1.61% (2537920)
+(Bigram) lat stretch:       0.73% (1022560)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #11 fitness: 82425254
+
+Hands:   48.38% 51.62%
+Fingers: 8.8% 9.2% 12.1% 18.3%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.7%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  {  }  $  0   ~  &  |  !  0
+ ;  "  (  )  ^   +  _  -  <  >
+ [  ]  :  =  0   `  /  *  ?  @
+
+Fitness:                82425254
+Finger travel:          27605020
+Excess finger press:    1398000
+Excess finger travel:   1752960
+Hand travel:            16224440
+Hand imbalance:         644069
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.34% (343520)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.98% (0)
+(Bigram) same finger:       1.16% (5637600)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.22% (-138240)
+(Bigram) hand reposition:   0.01% (17120)
+(Bigram) double tap:        0.30% (699120)
+(Bigram) scissors, half:    5.04% (5287840)
+(Bigram) scissors, full:    1.61% (2541760)
+(Bigram) lat stretch:       0.70% (974400)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #10 fitness: 82424645
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.1% 12.2% 18.4%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  &  {  }  0   ~  +  !  |  0
+ ;  "  (  )  $   `  _  -  <  >
+ [  ]  :  =  ^   0  /  *  ?  @
+
+Fitness:                82424645
+Finger travel:          27534760
+Excess finger press:    1398000
+Excess finger travel:   1618160
+Hand travel:            16267840
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.33% (325600)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.19% (5758400)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-137570)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.36% (736620)
+(Bigram) scissors, half:    5.06% (5318240)
+(Bigram) scissors, full:    1.61% (2533120)
+(Bigram) lat stretch:       0.74% (1023360)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #9 fitness: 82424538
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.6% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.3%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   0  %  #  +  0
+ ;  (  )  "  &   -  _  ?  <  >
+ [  ]  =  /  |   ^  :  $  !  ~
+
+Fitness:                82424538
+Finger travel:          27534710
+Excess finger press:    1342720
+Excess finger travel:   1540960
+Hand travel:            16483240
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1890720)
+(Bigram) layer, diff hands: 0.47% (471360)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5638400)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.14% (-133670)
+(Bigram) hand reposition:   0.01% (15840)
+(Bigram) double tap:        0.28% (685400)
+(Bigram) scissors, half:    4.97% (5224640)
+(Bigram) scissors, full:    1.63% (2549760)
+(Bigram) lat stretch:       0.72% (982560)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #8 fitness: 82413460
+
+Hands:   48.43% 51.57%
+Fingers: 8.8% 8.9% 12.1% 18.7%   12.5% 19.7% 10.6% 8.7%
+Travel:  1.6% 3.8% 5.8%  9.5%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  `  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  -  {  }  0   ~  %  !  +  0
+ ;  (  )  "  &   |  _  $  <  >
+ [  ]  /  =  0   ^  :  *  ?  @
+
+Fitness:                82413460
+Finger travel:          27558760
+Excess finger press:    1342720
+Excess finger travel:   1662480
+Hand travel:            16302040
+Hand imbalance:         602005
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1864160)
+(Bigram) layer, diff hands: 0.58% (573760)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.73% (0)
+(Bigram) same finger:       1.17% (5652640)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.16% (-134570)
+(Bigram) hand reposition:   0.01% (15840)
+(Bigram) double tap:        0.28% (689820)
+(Bigram) scissors, half:    4.96% (5203840)
+(Bigram) scissors, full:    1.61% (2532960)
+(Bigram) lat stretch:       0.71% (976640)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #7 fitness: 82411219
+
+Hands:   48.27% 51.73%
+Fingers: 8.8% 8.8% 12.1% 18.6%   12.6% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.3%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ^  &  -  |  0
+ ;  (  )  "  ~   +  _  ?  <  >
+ [  ]  =  /  0   `  :  $  !  @
+
+Fitness:                82411219
+Finger travel:          27541320
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16264720
+Hand imbalance:         733124
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.48% (479840)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.82% (0)
+(Bigram) same finger:       1.16% (5639360)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.15% (-133710)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.28% (690920)
+(Bigram) scissors, half:    4.97% (5223040)
+(Bigram) scissors, full:    1.63% (2545760)
+(Bigram) lat stretch:       0.70% (968480)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #6 fitness: 82407715
+
+Hands:   48.44% 51.56%
+Fingers: 8.8% 9.1% 12.2% 18.4%   12.4% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.5%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  $  {  }  0   ~  +  #  !  0
+ ;  "  (  )  &   |  _  -  <  >
+ [  ]  :  =  ^   `  /  *  ?  0
+
+Fitness:                82407715
+Finger travel:          27518640
+Excess finger press:    1398000
+Excess finger travel:   1607200
+Hand travel:            16323640
+Hand imbalance:         594950
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1887600)
+(Bigram) layer, diff hands: 0.34% (334240)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.00% (0)
+(Bigram) same finger:       1.20% (5799200)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.21% (-138060)
+(Bigram) hand reposition:   0.01% (15200)
+(Bigram) double tap:        0.29% (694500)
+(Bigram) scissors, half:    5.05% (5300320)
+(Bigram) scissors, full:    1.61% (2542080)
+(Bigram) lat stretch:       0.72% (1006720)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #5 fitness: 82402418
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  %  `  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ~  <  >  !  0
+ ;  (  )  "  &   |  _  $  ?  -
+ [  ]  =  /  0   ^  :  #  +  @
+
+Fitness:                82402418
+Finger travel:          27530090
+Excess finger press:    1467600
+Excess finger travel:   1540960
+Hand travel:            16337960
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.47% (469760)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5631680)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.14% (-133530)
+(Bigram) hand reposition:   0.01% (14880)
+(Bigram) double tap:        0.28% (674640)
+(Bigram) scissors, half:    4.97% (5217760)
+(Bigram) scissors, full:    1.64% (2576960)
+(Bigram) lat stretch:       0.71% (976480)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #4 fitness: 82400931
+
+Hands:   48.36% 51.64%
+Fingers: 8.8% 9.0% 12.2% 18.4%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  @  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ^  &  |  +  0
+ ;  "  (  )  $   %  _  -  <  >
+ [  ]  :  /  0   `  =  !  ?  ~
+
+Fitness:                82400931
+Finger travel:          27510720
+Excess finger press:    1398000
+Excess finger travel:   1540960
+Hand travel:            16332400
+Hand imbalance:         655436
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1869600)
+(Bigram) layer, diff hands: 0.26% (259520)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         39.06% (0)
+(Bigram) same finger:       1.20% (5802720)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.18% (-135950)
+(Bigram) hand reposition:   0.00% (14560)
+(Bigram) double tap:        0.30% (700200)
+(Bigram) scissors, half:    5.04% (5302880)
+(Bigram) scissors, full:    1.64% (2561280)
+(Bigram) lat stretch:       0.74% (1029120)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #3 fitness: 82386659
+
+Hands:   48.27% 51.73%
+Fingers: 8.8% 8.8% 12.1% 18.6%   12.6% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.3%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ^  &  |  !  0
+ ;  (  )  "  ~   +  _  -  <  >
+ [  ]  =  /  0   `  :  $  ?  @
+
+Fitness:                82386659
+Finger travel:          27518450
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16264720
+Hand imbalance:         733124
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.48% (479840)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.82% (0)
+(Bigram) same finger:       1.16% (5631200)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.16% (-134540)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.27% (684620)
+(Bigram) scissors, half:    4.98% (5225600)
+(Bigram) scissors, full:    1.63% (2554240)
+(Bigram) lat stretch:       0.70% (971040)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #2 fitness: 82383918
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.2%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  #  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ~  +  -  !  0
+ ;  (  )  "  &   |  _  ?  <  >
+ [  ]  =  /  0   ^  :  $  `  @
+
+Fitness:                82383918
+Finger travel:          27530270
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16312600
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.08% (-1861040)
+(Bigram) layer, diff hands: 0.47% (464320)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5643520)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.15% (-133810)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.27% (683520)
+(Bigram) scissors, half:    4.97% (5215360)
+(Bigram) scissors, full:    1.63% (2552000)
+(Bigram) lat stretch:       0.71% (977120)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+Rank #1 fitness: 82357328
+
+Hands:   48.33% 51.67%
+Fingers: 8.8% 8.8% 12.1% 18.7%   12.5% 19.8% 10.6% 8.7%
+Travel:  1.6% 3.7% 5.8%  9.4%    6.2%  8.1%  3.7%  1.0%
+
+ Q  F  C  P  K   J  W  O  U  0
+ N  H  S  T  G   X  R  E  I  A
+ B  Y  M  D  V   Z  L  `  %  0
+
+ q  f  c  p  k   j  w  o  u  \
+ n  h  s  t  g   x  r  e  i  a
+ b  y  m  d  v   z  l  '  ,  .
+
+ 0  *  {  }  0   ~  +  #  !  0
+ ;  (  )  "  &   |  _  -  <  >
+ [  ]  =  /  0   ^  :  $  ?  @
+
+Fitness:                82357328
+Finger travel:          27515800
+Excess finger press:    1464240
+Excess finger travel:   1540960
+Hand travel:            16312600
+Hand imbalance:         680653
+Layer change:           18981120
+(Bigram) layer, diff:       4.09% (-1882160)
+(Bigram) layer, diff hands: 0.47% (469760)
+(Bigram) rolls, separated   13.80% (-1719900)
+(Bigram) rolls, consec:     7.99% (-995980)
+(Bigram) same hand:         38.84% (0)
+(Bigram) same finger:       1.16% (5632480)
+(Bigram) sfb above max:     0.00% (0)
+(Bigram) same row:          2.16% (-134710)
+(Bigram) hand reposition:   0.01% (15520)
+(Bigram) double tap:        0.27% (684620)
+(Bigram) scissors, half:    4.97% (5220800)
+(Bigram) scissors, full:    1.63% (2560640)
+(Bigram) lat stretch:       0.71% (977440)
+(Trigram) same finger, split:   1.81% (1458280)
+(Trigram) same row, split:      1.29% (-53710)
+(Trigram) rolls:                57.55% (-2399880)
+(Trigram) alternates:           31.06% (-129521)
+(Trigram) bad redirects:        4.31% (1437280)
+(Trigram) hand reposition:      0.05% (52160)
+(Trigram) scissors, one hand:   0.32% (71285)
+(Trigram) scissors, half split: 5.84% (1396126)
+(Trigram) scissors, full split: 1.89% (3037920)
+(Trigram) lat stretch, split:   0.42% (163505)
+
+
+Algorithm complete. Best keyboards are printed above.
+Program will now terminate.
+Goodbye.
