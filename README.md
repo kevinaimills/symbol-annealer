@@ -12,7 +12,7 @@ Typing (both code and natural language) exhibits predictable statistical pattern
 
 ### 1\. Core Algorithm (file: `cjalgorithm.c`)
 
-The original simulated annealing algorithm used parallel processing (via Pthreads) to iteratively improve a single layout. This was highly vulnerable to local minima and often required restarting the algorithm to escape. I refactored the algorithm to maintain a leaderboard of top layouts that are improved in parallel.
+The original simulated annealing algorithm used parallel processing (via Pthreads) to alternate between optimizing random layouts and iteratively improving the single best layout. This was highly vulnerable to local minima and often required restarting the algorithm to escape. I refactored the algorithm to maintain a leaderboard of top layouts that are improved in parallel.
 
   * **Parallel Optimization:** Threads now probabilistically select layouts to work on from either: (i) the leaderboard; (ii) a semi-random "warm start" (see **Warm Start**, below); (iii) a purely random layout.
   * **Equivalence Checks:** The leaderboard intelligently merges functionally-equivalent entries to avoid pollution by minor variations on what is effectively the same layout (e.g. layouts differing only in that they swap the locations of two low-frequency symbols).
